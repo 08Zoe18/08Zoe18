@@ -25,7 +25,7 @@
 ## 📅 Learning Log / 学习日志
 
 - [x] **Day 1**: GitHub Registration & Personal Homepage / 注册 GitHub，创建个人主页  
-- [ ] **Day 2**: Markdown Basics & Profile Polish / 学习 Markdown 语法，美化主页  
+- [x] **Day 2**: Markdown Basics & Profile Polish / 学习 Markdown 语法，美化主页  
 - [ ] **Day 3**: Power Query Basics / Power Query 入门  
 - [ ] ...
 
