@@ -26,8 +26,8 @@
 
 - [x] **Day 1**: GitHub Registration & Personal Homepage / 注册 GitHub，创建个人主页  
 - [x] **Day 2**: Markdown Basics & Profile Polish / 学习 Markdown 语法，美化主页  
-- [x] Day 3：Excel 收支表 + Python 第一个程序 + MySQL 安装  
-- [ ] ...
+- [x] Day 3：Excel 收支表 + Python 第一个程序Hello + MySQL 安装  
+- [x] Day 4：Excel 产品毛利分析 + Python 分析脚本尝试 + SQL 基础查询入门
 
 ---
 
