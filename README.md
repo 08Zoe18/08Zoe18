@@ -29,7 +29,7 @@
 - [x] Day 3：Excel 收支表 + Python 第一个程序Hello + MySQL 安装  
 - [x] Day 4：Excel 产品毛利分析 + Python 分析脚本尝试 + SQL 基础查询入门
 - [x] Day 5：Excel 数据透视表练习 + Python 清洗脚本运行成功 + SQL 基础复习
----
+- [x] Day 6：Excel VLOOKUP 进阶 + pandas 基础操作 + SQL 多表连接/子查询
 
 ## 📫 Contact / 联系我
 
