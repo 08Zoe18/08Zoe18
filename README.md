@@ -30,7 +30,7 @@
 - [x] Day 4：Excel 产品毛利分析 + Python 分析脚本尝试 + SQL 基础查询入门
 - [x] Day 5：Excel 数据透视表练习 + Python 清洗脚本运行成功 + SQL 基础复习
 - [x] Day 6：Excel VLOOKUP 进阶 + pandas 基础操作 + SQL 多表连接/子查询
-
+- [x] Day 8：Excel Power Query 合并多文件 + pandas 进阶（分组聚合、透视表、多表合并）+ SQL 窗口函数（ROW_NUMBER、RANK、LAG、累计求和）
 ## 📫 Contact / 联系我
 
 - Email / 邮箱:3077656384@qq.com
