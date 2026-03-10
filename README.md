@@ -31,6 +31,12 @@
 - [x] Day 5：Excel 数据透视表练习 + Python 清洗脚本运行成功 + SQL 基础复习
 - [x] Day 6：Excel VLOOKUP 进阶 + pandas 基础操作 + SQL 多表连接/子查询
 - [x] Day 8：Excel Power Query 合并多文件 + pandas 进阶（分组聚合、透视表、多表合并）+ SQL 窗口函数（ROW_NUMBER、RANK、LAG、累计求和）
+- [x] Day 9：pandas数据处理进阶（缺失值/重复值/异常值处理、标准化）+ Power Query进阶（合并查询、分组透视）+ SQL窗口函数进阶（分组排名、累计、环比、帕累托分析）
+
+---
+
+
+
 ## 📫 Contact / 联系我
 
 - Email / 邮箱:3077656384@qq.com
