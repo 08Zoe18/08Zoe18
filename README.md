@@ -32,7 +32,7 @@
 - [x] Day 6：Excel VLOOKUP 进阶 + pandas 基础操作 + SQL 多表连接/子查询
 - [x] Day 8：Excel Power Query 合并多文件 + pandas 进阶（分组聚合、透视表、多表合并）+ SQL 窗口函数（ROW_NUMBER、RANK、LAG、累计求和）
 - [x] Day 9：pandas数据处理进阶（缺失值/重复值/异常值处理、标准化）+ Power Query进阶（合并查询、分组透视）+ SQL窗口函数进阶（分组排名、累计、环比、帕累托分析）
-
+- [x] Day 11：Excel Power Query 进阶（合并查询 + 透视列）+ Python 数据可视化入门（Matplotlib/Seaborn）+ SQL 复杂查询优化（CTE、同比环比、移动平均、索引）
 ---
 
 
